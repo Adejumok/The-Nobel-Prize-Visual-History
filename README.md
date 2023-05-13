@@ -24,8 +24,8 @@ We present our findings in this section using various visualizations such as gra
 
 ## Conclusion
 
-Well, as we suspected, non-typical genres such as children's movies and documentaries are all clustered around the bottom half of the plot. But we can't know for certain until we perform additional analyses. We are not certain that movies are getting shorter.
-
+- We see that the density of points is much high nowadays than in the early 1900s -- nowadays many more of the prizes are shared, and so there are many more winners.
+- Overall the gender imbalance is pretty large with physics, economics, and chemistry having the largest imbalance. Medicine has a somewhat positive trend, and since the 1990s the literature prize is also now more balanced.
 ## Dependencies
 
 This project requires the following Python libraries:
