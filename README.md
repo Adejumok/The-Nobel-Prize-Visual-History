@@ -33,11 +33,12 @@ This project requires the following Python libraries:
 - Pandas
 - Numpy
 - Matplotlib
+- Seaborn
 
 To install these libraries, run the following command:
 
 ```
-!pip install pandas numpy matplotlib
+!pip install pandas numpy matplotlib seaborn
 ```
 
 ## Usage
