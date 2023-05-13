@@ -1,7 +1,5 @@
 # The-Nobel-Prize-Visual-History
 The first Nobel Prize was handed out in 1901, and at that time the Prize was very Eurocentric and male-focused, but nowadays it's not biased in any way whatsoever. This project aim to visually analyze the nobel prize data, and find out about this conclusion
-# World-Oldest-Businesses
-This project use joining techniques to discover the oldest businesses in the world.
 
 ## Introduction
 
