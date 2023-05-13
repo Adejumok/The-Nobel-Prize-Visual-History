@@ -11,7 +11,7 @@ The data used in this project is a CSV file containing data on the Nobel Prize H
 
 ## Analysis
 
-We start by exploring the data and understanding its structure. We then use various Python libraries such as Pandas, Numpy, and Matplotlib to analyze the data and visualize our findings. We perform various data analysis tasks such as:
+We start by exploring the data and understanding its structure. We then use various Python libraries such as Pandas, Numpy, Matplotlib, and Seaborn to analyze the data and visualize our findings. We perform various data analysis tasks such as:
 
 - Data cleaning and preparation
 - Data exploration
