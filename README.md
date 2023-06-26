@@ -14,7 +14,7 @@ The data used in this project is a CSV file containing data on the Nobel Prize H
 The project is structured as follows:
 
 - `datasets` folder: Contains the dataset files:
-  - `2_mon.csv`
+  - `nobel.csv`
 - `README.md`: Project overview and instructions.
 - `notebook.ipynb`
 
