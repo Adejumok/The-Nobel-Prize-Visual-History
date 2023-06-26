@@ -9,6 +9,8 @@ In this project, we analyze data using Python to gain insights and answer questi
 
 The data used in this project is a CSV file containing data on the Nobel Prize History. We import the data into our notebook and clean it as needed. The aim of this analysis is to find out if the Nobel Prize is no longer Eurocentric and male-focused.
 
+
+
 ## Analysis
 
 We start by exploring the data and understanding its structure. We then use various Python libraries such as Pandas, Numpy, Matplotlib, and Seaborn to analyze the data and visualize our findings. We perform various data analysis tasks such as:
