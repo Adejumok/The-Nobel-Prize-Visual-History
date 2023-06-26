@@ -14,13 +14,9 @@ The data used in this project is a CSV file containing data on the Nobel Prize H
 The project is structured as follows:
 
 - `datasets` folder: Contains the dataset files:
-  - `1_ignaz_semmelweis_1860.jpeg`
-  - `2_monthly_deaths.csv`
-  - `3_project_image.png`
-  - 4_yearly_deaths_by_clinic.csv
+  - `2_mon.csv`
 - `README.md`: Project overview and instructions.
 - `notebook.ipynb`
-
 
 ## Analysis
 
